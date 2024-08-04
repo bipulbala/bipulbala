@@ -5,10 +5,18 @@
 - 📫 How to reach me ... https://www.linkedin.com/in/bipul-bala-7b718b260/
   
 
-[![Bipul's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bipulbala&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/bipulbala/github-readme-stats#gh-light-mode-only)
+
 [![Bipul's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bipulbala&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/bipulbala/github-readme-stats#gh-dark-mode-only)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipulbala&hide_progress=true&layout=compact)
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=bipulbala&show_icons=true&theme=default#gh-light-mode-only)">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github.com/bipulbala/github-readme-stats#gh-light-mode-only)" />
+</a>
+<a href="https://github.com/bipulbala/toplangs">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=bipulbala&hide_progress=true)&langs_count=1&card_width=320" />
+</a>
+
+
+ 
 
  
   
