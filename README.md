@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on any kind of projects
 - 📫 How to reach me ... https://www.linkedin.com/in/bipul-bala-7b718b260/
   
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  ![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipulbala&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipulbala&hide_progress=true&layout=compact)
+
+
+  ![Bipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipulbala&show_icons=true&theme=dark#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipulbala&hide_progress=true&layout=compact)
  
   
 <!---
