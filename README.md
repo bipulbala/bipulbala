@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bipulbala
-- 👀 I’m interested in Webdev, AI & ML
-- 🌱 I’m currently learning Js & JAVA
+- 👀 I’m interested in AGI
+- - 🌱 I’m currently learning Js & JAVA
 - 💞️ I’m looking to collaborate on any kind of projects
 - 📫 How to reach me ... https://www.linkedin.com/in/bipul-bala-7b718b260/
   
